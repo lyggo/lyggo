@@ -1,6 +1,6 @@
-# 👋 Hi, I'm 刘杨 | **Liu Yang**
+# 👋 Hi, I'm  **Liu Yang**
 
-**🚀 Test Development Engineer | 测试开发工程师**  
+**🚀 Test Development Engineer**  
 Passionate about building robust backend systems, efficient test automation frameworks, and scalable deployment pipelines.
 
 ---
