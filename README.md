@@ -39,6 +39,16 @@ Passionate about building robust backend systems, efficient test automation fram
 
 ---
 
+## 🏆 GitHub 贡献热图 / GitHub Contributions
+
+![Liu Yang's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyggo&theme=radical)
+
+
+## 🔥 最近 31 天的活动 / Recent 31 Days Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=lyggo&theme=react)
+
+
 ## 📬 **Contact Me | 联系我**
 
 - 📧 **Email:** [zlkpo@hotmail.com](zlkpo@hotmail.com)  
