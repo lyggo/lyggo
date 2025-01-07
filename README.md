@@ -19,7 +19,7 @@ Passionate about building robust backend systems, efficient test automation fram
 
 ## 📬 **Contact Me | 联系我**
 
-- 📧 **Email:** [zlkpo@hotmail.com]
+- 📧 **Email:** zlkpo@hotmail.com
 - 🌐 **Blog:** [https://blog.zlkpo.com](https://blog.zlkpo.com)  
 
 ---
