@@ -23,6 +23,3 @@ Passionate about building robust backend systems, efficient test automation fram
 - 🌐 **Blog:** [https://blog.zlkpo.com](https://blog.zlkpo.com)  
 
 ---
-
-
-**Thank you for visiting my profile! If you like my work, please give me a Star ⭐️!**
