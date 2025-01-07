@@ -18,14 +18,6 @@ Passionate about building robust backend systems, efficient test automation fram
 
 ---
 
-## 📚 **About Me | 关于我**
-
-- 💼 **职业:** 测试开发工程师  
-- 🎯 **专注领域:** 后端开发、自动化测试、DevOps  
-- 💻 **兴趣:** 技术分享、开源贡献、技术架构设计  
-
----
-
 ## 📬 **Contact Me | 联系我**
 
 - 📧 **Email:** [zlkpo@hotmail.com](zlkpo@hotmail.com)  
