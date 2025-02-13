@@ -7,7 +7,7 @@ Passionate about building robust backend systems, efficient test automation fram
 ## 🛠️ **Tech Stack**
 
 **Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![Sanic](https://img.shields.io/badge/Sanic-005571?style=flat&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Gin](https://img.shields.io/badge/Gin-00C8A6?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![Sanic](https://img.shields.io/badge/Sanic-005571?style=flat&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Gin](https://img.shields.io/badge/Gin-00C8A6?style=flat&logo=go&logoColor=white)
 
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  ![UniApp](https://img.shields.io/badge/UniApp-4FC08D?style=flat&logo=vue.js&logoColor=white)
